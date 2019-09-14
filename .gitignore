@@ -1,2 +1,2 @@
 node_modules
-# fix at deployment/client
+/client
