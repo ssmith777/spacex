@@ -2,7 +2,7 @@
 
 # SpaceX App
 
-### This App is built with React on the front end & NodeJS GraphQL Express server on the back end.
+### This App is built with React on the frontend & NodeJS GraphQL Express server on the backend.
 
 ---
 
