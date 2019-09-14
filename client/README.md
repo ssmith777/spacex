@@ -1,0 +1,37 @@
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)&nbsp;&nbsp; [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://graphql-spacex-app.herokuapp.com/)
+
+# SpaceX App
+
+### This App is built with React on the front end & NodeJS GraphQL Express server on the back end.
+
+---
+
+##### Note: This site may be slow loading, please allow a little time for the container to spin up.
+
+### view site @: https://graphql-spacex-app.herokuapp.com
+
+### view GraphiQL API@ https://graphql-spacex-app.herokuapp.com/graphql
+
+---
+
+##### Example GraphQL Query:
+
+```
+query{
+  launches{
+    flight_number
+    mission_name
+    launch_year
+    launch_success
+    rocket{
+      rocket_id
+      rocket_name
+      rocket_type
+    }
+  }
+}
+```
+
+![Demo]()
+![Demo]()
+![Demo]()
