@@ -46,7 +46,7 @@ query{
 
 ![Demo](https://raw.githubusercontent.com/ssmith777/spacex/master/client/src/client-img.png)
 
-##### Mission details https://graphql-spacex-app.herokuapp.com/launch/1
+##### Mission details https://graphql-spacex-app.herokuapp.com/launch/21
 
 ![Demo](https://github.com/ssmith777/spacex/blob/master/client/src/client-detail-page.png?raw=true)
 

@@ -34,19 +34,19 @@ query{
 }
 ```
 
-##### GraghQL Playground
+##### GraghQL Playground https://graphql-spacex-app.herokuapp.com/playground
 
 ![Demo](https://github.com/ssmith777/spacex/blob/master/client/src/GraphQL-Playground.png?raw=true)
 
-##### GraphiQL Page
+##### GraphiQL Page https://graphql-spacex-app.herokuapp.com/graphql
 
 ![Demo](https://github.com/ssmith777/spacex/blob/master/client/src/spacex-graphql.png?raw=true)
 
-##### Client Pages
+##### Client Pages https://graphql-spacex-app.herokuapp.com/
 
 ![Demo](https://raw.githubusercontent.com/ssmith777/spacex/master/client/src/client-img.png)
 
-##### Mission details
+##### Mission details https://graphql-spacex-app.herokuapp.com/launch/21
 
 ![Demo](https://github.com/ssmith777/spacex/blob/master/client/src/client-detail-page.png?raw=true)
 
