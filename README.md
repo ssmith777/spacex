@@ -32,6 +32,10 @@ query{
 }
 ```
 
+##### GraghQL Playground
+
+![Demo](https://github.com/ssmith777/spacex/blob/master/client/src/GraphQL-Playground.png?raw=true)
+
 ##### GraphiQL Page
 
 ![Demo](https://github.com/ssmith777/spacex/blob/master/client/src/spacex-graphql.png?raw=true)

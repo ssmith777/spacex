@@ -32,6 +32,10 @@ query{
 }
 ```
 
+##### GraghQL Playground
+
+![Demo](https://github.com/ssmith777/spacex/blob/master/client/src/GraphQL-Playground.png?raw=true)
+
 ##### GraphiQL Page
 
 ![Demo](https://github.com/ssmith777/spacex/blob/master/client/src/spacex-graphql.png?raw=true)
@@ -52,3 +56,4 @@ Note: Built with...
 - apollo-boost: https://www.npmjs.com/package/apollo-boost
 - graphql: https://www.npmjs.com/package/graphql
 - moment: https://www.npmjs.com/package/moment
+- @apollographql/graphql-playground-middleware-express https://www.npmjs.com/package/@apollographql/graphql-playground-middleware-express
