@@ -10,9 +10,9 @@
 
 ### view site @: https://graphql-spacex-app.herokuapp.com
 
-### view API with GraphiQL Playground @: https://graphql-spacex-app.herokuapp.com/playground
+### view GraphQL API with GraphQL Playground @: https://graphql-spacex-app.herokuapp.com/playground
 
-### view GraphiQL API with GraphiQL @: https://graphql-spacex-app.herokuapp.com/graphql
+### view GraphQL API with GraphiQL @: https://graphql-spacex-app.herokuapp.com/graphql
 
 ---
 
