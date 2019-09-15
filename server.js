@@ -4,6 +4,9 @@ const schema = require('./schema.js');
 const app = express();
 const path = require('path');
 
+const expressPlayground = require('graphql-playground-middleware-express')
+  .default;
+
 const cors = require('cors');
 // Allow cross-origin
 app.use(cors());
@@ -15,6 +18,8 @@ app.use(
     graphiql: true
   })
 );
+
+app.get('/playground', expressPlayground({ endpoint: '/graphql' }));
 
 app.use(express.static('public'));
 app.get('*', (req, res) => {

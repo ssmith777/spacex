@@ -52,3 +52,4 @@ Note: Built with...
 - apollo-boost: https://www.npmjs.com/package/apollo-boost
 - graphql: https://www.npmjs.com/package/graphql
 - moment: https://www.npmjs.com/package/moment
+- @apollographql/graphql-playground-middleware-express https://www.npmjs.com/package/@apollographql/graphql-playground-middleware-express
